@@ -1,6 +1,6 @@
 {
-  "name": "yci",
-  "version": "1.0.0",
+  "name": "@yulinxi/y-ci",
+  "version": "0.1.0",
   "description": "Commit工具-Emoji规范",
   "bin": "index.js",
   "scripts": {
