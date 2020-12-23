@@ -4,6 +4,6 @@ Commit工具-Emoji规范
 # usage
 
 ```
-npm install yci -g
+npm install @yulinxi/y-ci -g
 yci
 ```
