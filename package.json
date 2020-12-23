@@ -1,8 +1,10 @@
 {
   "name": "@yulinxi/y-ci",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Commit工具-Emoji规范",
-  "bin": "index.js",
+  "bin": {
+    "yci": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
