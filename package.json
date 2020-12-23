@@ -1,7 +1,13 @@
 {
   "name": "@yulinxi/y-ci",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Commit工具-Emoji规范",
+  "keywords": ["commit", "git", "emoji"],
+  "homepage": "https://github.com/YuLinXi/yci",
+  "bugs": {
+    "url": "https://github.com/YuLinXi/yci/issues",
+    "email": "yulinxi0825@163.com"
+  },
   "bin": {
     "yci": "index.js"
   },
